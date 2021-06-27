@@ -1,0 +1,82 @@
+/* Color Theme Swatches in Hex 
+.Landscape-of-northern-and-Antarctic-life. Iceberg-in-ocean-and-i-1-hex -> color: #010326; 
+.Landscape-...-i-2-hex -> color: #020B40; 
+.Landscape-...-i-3-hex -> color: #2C96BF; 
+.Landscape-...-i-4-hex -> color: #2ECEF2; 
+.Landscape-...-i-5-hex -> color: #99F2F2; 
+*/
+
+h1{
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: 15px;
+}
+
+h6{
+  text-align: center;
+}
+
+h5{
+  text-align: center;  
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: #DAB39A;
+}
+
+.a{
+  background-color: #99F2F2;
+}
+
+.b{
+  background-color: #2ECEF2;
+  color: white;
+}
+
+.b2{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.c{
+  background-color: #2C96BF;
+}
+
+.c2{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.d{
+  background-color: #04188E;
+}
+
+.d2{
+  margin-top: 16px;
+  margin-bottom: -8px;
+}
+
+.e{
+  background-color: #010326;
+}
+
+.e2{
+  margin-top: 15px;
+}
+
+img{
+  width: 100%; 
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+button{
+  margin-bottom: 20px;
+}
+
+.btn-toolbar{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+  font-family: 'Courier New', Courier, monospace;
+}
